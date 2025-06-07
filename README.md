@@ -53,5 +53,6 @@ Create a Java program to read, write, and modify text files. This is part of the
 ---
 
 ##  Output File
+![Image](https://github.com/user-attachments/assets/7c1a2afb-362f-4eb8-940d-b2acb096d345)
 
 - A file named `sample.txt` is used to read/write/modify content.
