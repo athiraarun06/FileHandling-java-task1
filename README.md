@@ -51,6 +51,9 @@ Create a Java program to read, write, and modify text files. This is part of the
    - 3: Modify contents
 
 ---
+# Author
+ATHIRA ARUN
+
 
 ##  Output File
 ![Image](https://github.com/user-attachments/assets/7c1a2afb-362f-4eb8-940d-b2acb096d345)
